@@ -8,5 +8,6 @@
 
 ## Completed Challenges
 [Challenge #193 Easy 21.01.15](http://np.reddit.com/r/dailyprogrammer/comments/2ptrmp/20141219_challenge_193_easy_acronym_expander/) - [**Solution**](ruby/acronym_expander.rb)
+
 [Challenge #195 Easy 21.01.15](http://np.reddit.com/r/dailyprogrammer/comments/2s7ezp/20150112_challenge_197_easy_isbn_validator/) - [**Solution**](ruby/isbn_generator.rb)
 
