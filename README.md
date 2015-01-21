@@ -7,4 +7,4 @@
 -- [Daily Programmer Wiki](http://www.reddit.com/r/dailyprogrammer/wiki/index)
 
 ## Completed Challenges
-[Challenge 195 Easy 21.01.15](http://np.reddit.com/r/dailyprogrammer/comments/2s7ezp/20150112_challenge_197_easy_isbn_validator/) - [**Solution**](ruby/isbn_generator.rb)
+[Challenge #195 Easy 21.01.15](http://np.reddit.com/r/dailyprogrammer/comments/2s7ezp/20150112_challenge_197_easy_isbn_validator/) - [**Solution**](ruby/isbn_generator.rb)
